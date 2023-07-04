@@ -1,1 +1,2 @@
 # Резюме
+theme: THEME-NAME
